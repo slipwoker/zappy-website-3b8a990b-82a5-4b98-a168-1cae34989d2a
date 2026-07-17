@@ -1,0 +1,108 @@
+# א.פיאד חלפי חורה — Generative Engine Optimization Map
+
+> An auto parts store specializing in replacement parts, likely serving car owners, mechanics, and garages looking for vehicle components and spare parts.
+
+---
+
+## Pages
+
+### בית
+https://-3b8a990b.zappy5.app
+מחפשים חלפי רכב איכותיים? אנחנו חנות חלפי רכב מובילה בנגב עם מלאי ענק של חלקי חילוף מקוריים ותואמים. בואו לקבל שירות מקצועי ולחזור לכביש במהירות!
+
+### שירותים
+https://-3b8a990b.zappy5.app/services
+מעבר למכירה, אנחנו מספקים ייעוץ מקצועי, איתור חלקים נדירים ושירות מהיר למוסכים וציי רכב. גלו איך אנחנו הופכים תיקון רכב לחוויה פשוטה ומשתלמת.
+
+### אודות
+https://-3b8a990b.zappy5.app/about
+א.פיאד חלפי חורה היא עסק משפחתי עם ותק ומוניטין באספקת חלקי חילוף אמינים לכל סוגי הרכבים. הכירו את הצוות שמאחורי המקצועיות והאכפתיות האמיתית.
+
+### שאלות נפוצות
+https://-3b8a990b.zappy5.app/faq
+איך מתאימים חלק חילוף? מה ההבדל בין מקורי לתחליפי? קבלו תשובות ברורות לשאלות הנפוצות על רכישת חלפי רכב, ישר מהמומחים שלנו. היכנסו ותהיו בטוחים יותר!
+
+### צור קשר
+https://-3b8a990b.zappy5.app/contact
+צריכים עזרה במציאת חלק חילוף ספציפי? צרו קשר עם המומחים של א.פיאד חלפי חורה עוד היום! אנחנו זמינים לתת לכם מענה מהיר, מדויק ואישי שיחזיר אתכם לכביש.
+
+### Products
+https://-3b8a990b.zappy5.app/products
+המוצרים שלנו - א.פיאד חלפי חורה
+
+### Cart
+https://-3b8a990b.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-3b8a990b.zappy5.app/checkout
+תשלום
+
+### Login
+https://-3b8a990b.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-3b8a990b.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-3b8a990b.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-3b8a990b.zappy5.app/product/:slug
+פרטי המוצר - א.פיאד חלפי חורה
+
+### Category
+https://-3b8a990b.zappy5.app/category/:slug
+מוצרים - א.פיאד חלפי חורה
+
+### תודה - א.פיאד חלפי חורה
+https://-3b8a990b.zappy5.app/thank-you
+א.פיאד חלפי חורה - תודה - א.פיאד חלפי חורה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-3b8a990b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-3b8a990b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-3b8a990b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About א.פיאד חלפי חורה
+An auto parts store specializing in replacement parts, likely serving car owners, mechanics, and garages looking for vehicle components and spare parts.
+
+## Target Audience
+- מכונאי רכב מקצועיים
+- חובבי רכב לשימוש אישי
+- מנהלי ציי רכב
+
+## Industry
+Auto Parts Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-3b8a990b.zappy5.app/sitemap.xml
+- Robots: https://-3b8a990b.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-3b8a990b.zappy5.app/llms-full.txt
+- Products (JSON): https://-3b8a990b.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-3b8a990b.zappy5.app/product-feed.xml
