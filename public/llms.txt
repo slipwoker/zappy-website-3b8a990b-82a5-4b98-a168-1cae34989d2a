@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-3b8a990b.zappy5.app
+https://example.com
 מחפשים חלפי רכב איכותיים? אנחנו חנות חלפי רכב מובילה בנגב עם מלאי ענק של חלקי חילוף מקוריים ותואמים. בואו לקבל שירות מקצועי ולחזור לכביש במהירות!
 
 ### שירותים
-https://-3b8a990b.zappy5.app/services
+https://example.com/services
 מעבר למכירה, אנחנו מספקים ייעוץ מקצועי, איתור חלקים נדירים ושירות מהיר למוסכים וציי רכב. גלו איך אנחנו הופכים תיקון רכב לחוויה פשוטה ומשתלמת.
 
 ### אודות
-https://-3b8a990b.zappy5.app/about
+https://example.com/about
 א.פיאד חלפי חורה היא עסק משפחתי עם ותק ומוניטין באספקת חלקי חילוף אמינים לכל סוגי הרכבים. הכירו את הצוות שמאחורי המקצועיות והאכפתיות האמיתית.
 
 ### שאלות נפוצות
-https://-3b8a990b.zappy5.app/faq
+https://example.com/faq
 איך מתאימים חלק חילוף? מה ההבדל בין מקורי לתחליפי? קבלו תשובות ברורות לשאלות הנפוצות על רכישת חלפי רכב, ישר מהמומחים שלנו. היכנסו ותהיו בטוחים יותר!
 
 ### צור קשר
-https://-3b8a990b.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה במציאת חלק חילוף ספציפי? צרו קשר עם המומחים של א.פיאד חלפי חורה עוד היום! אנחנו זמינים לתת לכם מענה מהיר, מדויק ואישי שיחזיר אתכם לכביש.
 
 ### Products
-https://-3b8a990b.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - א.פיאד חלפי חורה
 
 ### Cart
-https://-3b8a990b.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-3b8a990b.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-3b8a990b.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-3b8a990b.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-3b8a990b.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-3b8a990b.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - א.פיאד חלפי חורה
 
 ### Category
-https://-3b8a990b.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - א.פיאד חלפי חורה
 
 ### תודה - א.פיאד חלפי חורה
-https://-3b8a990b.zappy5.app/thank-you
+https://example.com/thank-you
 א.פיאד חלפי חורה - תודה - א.פיאד חלפי חורה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-3b8a990b.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-3b8a990b.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-3b8a990b.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ Auto Parts Retail
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-3b8a990b.zappy5.app/sitemap.xml
-- Robots: https://-3b8a990b.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-3b8a990b.zappy5.app/llms-full.txt
-- Products (JSON): https://-3b8a990b.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-3b8a990b.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
